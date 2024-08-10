@@ -1,0 +1,36 @@
+{
+	"CharacterName": "Tiffany",
+	
+	"ReplacementOutfits" : {
+		"1" : {
+			"name": "Second Generation",
+			"file": "outfit_gen2.png",
+			"x": 840,
+			"y": 190
+		}
+	},
+	
+	"ReplacementHairstyles" : {
+		"1" : {
+			"name": "Mama's Girl",
+			"front":
+			{
+				"file": "fronthair_mama.png",
+				"x": 840,
+				"y": 180
+			},
+			"back":
+			{
+				"file": "backhair_mama.png",
+				"x": 840,
+				"y": 180
+			},
+			"shadow":
+			{
+				"file": "hairshadow_mama.png",
+				"x": 840,
+				"y": 180
+			}
+		}
+	}
+}
