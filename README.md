@@ -7,7 +7,7 @@ By default:
 
 !THIS MOD REQUIRES HCS LOADER!
 
-Download here: https://github.com/bbepis/HCSLoader
+Download in the HuniePotHeads Discord for the latest version!
 
 To install: 
 1. Unzip Tiffany-SecondGeneration.zip
