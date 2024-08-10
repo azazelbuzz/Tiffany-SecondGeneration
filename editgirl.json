@@ -2,7 +2,7 @@
 	"CharacterName": "Tiffany",
 	
 	"ReplacementOutfits" : {
-		"1" : {
+		"3" : {
 			"name": "Second Generation",
 			"file": "outfit_gen2.png",
 			"x": 840,
@@ -11,7 +11,7 @@
 	},
 	
 	"ReplacementHairstyles" : {
-		"1" : {
+		"3" : {
 			"name": "Mama's Girl",
 			"front":
 			{
